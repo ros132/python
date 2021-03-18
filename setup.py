@@ -4,7 +4,7 @@ import sys
 from distutils.core import setup
 from distutils.sysconfig import get_python_lib
 
-# Warn if we are installing over top of an existing installation. This can
+# Warn if we are installing over top of an existing installation. This cangggg
 # cause issues where files that were deleted from a more recent Django are
 # still present in site-packages. See #18115.
 overlay_warning = False
